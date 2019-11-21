@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"My First Post","path":"/blog/first-post","date":"2019-11-11"}}},{"node":{"frontmatter":{"title":"My Second Post","path":"/blog/second-post","date":"2019-11-11"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"pageContext":{"isCreatedByStatefulCreatePages":true}}}
