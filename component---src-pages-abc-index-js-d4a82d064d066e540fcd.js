@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"9YUM":function(n,e,o){"use strict";o.r(e);var a=o("q1tI"),t=o.n(a);e.default=function(n){return console.log({abcProps:n}),t.a.createElement("marquee",null,"asd")}}}]);
+//# sourceMappingURL=component---src-pages-abc-index-js-d4a82d064d066e540fcd.js.map
